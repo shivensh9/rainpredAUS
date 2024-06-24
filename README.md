@@ -1,6 +1,6 @@
 # Weather Data Analysis and Logistic Regression Model
 Project Documentation
-Introduction
+Introduction\\
 This project involves analyzing weather data from Australia and building a logistic regression model to predict whether it will rain tomorrow. The data preprocessing steps include handling missing values, encoding categorical variables, and splitting the data into training and testing sets. The logistic regression model is then trained and evaluated using accuracy score and confusion matrix.
 
 Steps Involved
